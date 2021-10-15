@@ -1,0 +1,38 @@
+[
+    {
+        "nombre":"Firulais ",
+        "edad": "1 año",
+        "tamaño": "Mediano",
+        "foto": "images/uploads/perro1.jpg",
+        "ubicacion":"CABA - San Telmo"
+    },
+    {
+        "nombre":"Pepito ",
+        "edad": "4 años",
+        "estatura": "Chico",
+        "foto": "images/uploads/perro2.jpg",
+        "ubicacion":"CABA - Palermo"
+    },
+    {
+        "nombre":"Lana ",
+        "edad": "8 meses",
+        "estatura": "Chica",
+        "foto": "images/uploads/perro3.jpg",
+        "ubicacion":"GBA SUR - Lanus"
+    },
+    {
+        "nombre":"Renata ",
+        "edad": "8 años",
+        "estatura": "Mediano",
+        "foto": "images/uploads/perro4.jpg",
+        "ubicacion":"GBA SUR - Lomas de Zamora"
+    },
+    {
+        "nombre":"Tyson ",
+        "edad": "5 años",
+        "tamaño": "Grande",
+        "foto": "images/uploads/perro5.jpg",
+        "ubicacion":"CABA - Barracas"
+    }
+]
+    
